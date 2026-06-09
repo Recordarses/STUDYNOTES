@@ -223,7 +223,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/Recordarse
+        GitHub: https://github.com/Recordarses
         RSS: /index.xml
   - source: github:quartz-community/recent-notes
     enabled: false
